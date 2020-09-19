@@ -1,0 +1,59 @@
+.button {
+    background-color: #008cba;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:disabled {
+    opacity: 0.5;
+}
+.espaco {
+    background-color: #008cba;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.espaco:disabled {
+    opacity: 0.5;
+}
+.personalizado {
+    background-color: #008cba;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.personalizado:disabled {
+    opacity: 0.5;
+}
+.hide {
+    display: none;
+}
+.espaco-container {
+    background-color: #fdfbc4;
+    
+}
+.formulario{
+    padding: 30px;
+}
+.titulo{
+    padding: 30px;
+    text-align: center;
+}

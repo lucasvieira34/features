@@ -43,6 +43,51 @@
 .personalizado:disabled {
     opacity: 0.5;
 }
+.customizado {
+    background-color: #008cba;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.customizado:disabled {
+    opacity: 0.5;
+}
+.texto {
+    background-color: #008cba;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.texto:disabled {
+    opacity: 0.5;
+}
+.progresso {
+    background-color: #008cba;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.progresso:disabled {
+    opacity: 0.5;
+}
 .hide {
     display: none;
 }
@@ -56,4 +101,7 @@
 .titulo{
     padding: 30px;
     text-align: center;
+}
+.loadingoverlay{
+    justify-content: center!important;
 }
